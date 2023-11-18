@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "cubemap6to1": {
+      "commandName": "Project",
+      "commandLineArgs": "\"c:\\source\\volts-laboratory\\textures\\Shadertoy St Peters Basilica 256x256 0.jpg\""
+    }
+  }
+}
